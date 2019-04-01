@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculaltor</string>
+    <string name="app_name">BeSmart</string>
     <string name="msg_hint">Type your message here</string>
     <string name="send_msg">Send</string>
     <string name="image_desc">Image</string>

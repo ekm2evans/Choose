@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "693701956347",
-    "firebase_url": "https://pseudocalculate.firebaseio.com",
-    "project_id": "pseudocalculate",
-    "storage_bucket": "pseudocalculate.appspot.com"
+    "project_number": "571213058994",
+    "firebase_url": "https://choose-aec15.firebaseio.com",
+    "project_id": "choose-aec15",
+    "storage_bucket": "choose-aec15.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693701956347:android:c4bef5e8d9e5788d",
+        "mobilesdk_app_id": "1:571213058994:android:392b40861a6f90df",
         "android_client_info": {
-          "package_name": "com.pickupgame.evans.calculaltor"
+          "package_name": "com.pickupgame.evans.choose"
         }
       },
       "oauth_client": [
         {
-          "client_id": "693701956347-b2sdibfmgp2ojt3cum6sum5nflu88njo.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.pickupgame.evans.calculaltor",
-            "certificate_hash": "8c8aef88607e45b017e3a9ec05db9fd6e2c79c1a"
-          }
-        },
-        {
-          "client_id": "693701956347-f3gdvtoejcfugo8bvvuf7vqadea6osta.apps.googleusercontent.com",
+          "client_id": "571213058994-pv7m01j03bgvq8nf5glckl8si1m765kt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD2zQboRTwDb3gV98xwlzqgg1mcDUlJu3A"
+          "current_key": "AIzaSyCECyCv1Pu727JxQrh1zXHSiaEq9h75fZo"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "693701956347-f3gdvtoejcfugo8bvvuf7vqadea6osta.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
